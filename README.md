@@ -1,9 +1,10 @@
-# Lab: Image blending with OpenCV
-In this lab, we are going to play with image blending using Laplacian pyramids with OpenCV.
+# Image blending with OpenCV
+Welcome to this lab in the computer vision course [TEK5030](https://www.uio.no/studier/emner/matnat/its/TEK5030/) at the University of Oslo.
+We are here going to play with image blending using Laplacian pyramids with OpenCV.
 
 **Start** by cloning this repository on your own machine. 
 Then, open the project in PyCharm.
-If you are uncertain about how this is done, please take a look at [lab_00](https://github.com/tek5030/lab_00/blob/master/py/lab-guide/1-open-project-in-pycharm.md).
+If you are uncertain about how this is done, please take a look at [lab_intro](https://github.com/tek5030/lab-intro/blob/master/py/lab-guide/1-open-project-in-pycharm.md).
 Remember to use the correct repository address!
 
 ---
