@@ -4,8 +4,7 @@ We are here going to play with image blending using Laplacian pyramids with Open
 
 **Start** by cloning this repository on your own machine. 
 Then, open the project in PyCharm.
-If you are uncertain about how this is done, please take a look at [lab_intro](https://github.com/tek5030/lab-intro/blob/master/py/lab-guide/1-open-project-in-pycharm.md).
-Remember to use the correct repository address!
+If you are uncertain about how this is done, please take a look at [lab-intro](https://github.com/tek5030/lab-intro/blob/master/py/lab-guide/1-open-project-in-pycharm.md).
 
 ---
 
@@ -24,8 +23,9 @@ https://www.jetbrains.com/help/pycharm/jupyter-notebook-support.html
 Press the "world symbol" in the upper right corner to run it in your browser.
 
 The notebooks are also available online in Binder
-- [lab-image-blending.ipynb][binder-lab] [![Binder](https://mybinder.org/badge_logo.svg)][binder-lab]
-- [solution-image-blending.ipynb][binder-solution] [![Binder](https://mybinder.org/badge_logo.svg)][binder-solution]
+- [lab-image-blending.ipynb][binder-lab] [![binder-badge]][binder-lab]
+- [solution-image-blending.ipynb][binder-solution] [![binder-badge]][binder-solution]
 
+[binder-badge]: https://mybinder.org/badge_logo.svg
 [binder-lab]: https://mybinder.org/v2/gh/tek5030/lab-image-blending-py/master?filepath=lab-image-blending.ipynb
 [binder-solution]: https://mybinder.org/v2/gh/tek5030/lab-image-blending-py/master?filepath=solution-image-blending.ipynb
