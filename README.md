@@ -27,5 +27,5 @@ The notebooks are also available online in Binder
 - [solution-image-blending.ipynb][binder-solution] [![binder-badge]][binder-solution]
 
 [binder-badge]: https://mybinder.org/badge_logo.svg
-[binder-lab]: https://mybinder.org/v2/gh/tek5030/lab-image-blending-py/master?filepath=lab-image-blending.ipynb
-[binder-solution]: https://mybinder.org/v2/gh/tek5030/lab-image-blending-py/master?filepath=solution-image-blending.ipynb
+[binder-lab]: https://mybinder.org/v2/gh/tek5030/lab-image-blending-py/master
+[binder-solution]: https://mybinder.org/v2/gh/tek5030/lab-image-blending-py/master
